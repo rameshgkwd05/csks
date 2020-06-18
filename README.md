@@ -1,4 +1,4 @@
-# CKCS
+# CSKS
 Computer Science Knowledge Sharing
 
 ## AWS interview prep material
