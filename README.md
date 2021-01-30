@@ -7,7 +7,7 @@ Computer Science Knowledge Sharing
 ### For system design
 1. https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA/playlists
 1. https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
-1. https://hangouts.google.com/call/sA6cjpmSYHhz6wC3nGFqACEM
+1. https://www.youtube.com/watch?v=q0KGYwNbf-0&t=250s&ab_channel=Cl%C3%A9mentMihailescu
 ### Behavioral 
 1. https://www.youtube.com/watch?v=B-xdfQv3I1k
 1. https://www.youtube.com/watch?v=CiPeyJlcMF0&t=466s
