@@ -3,7 +3,7 @@ Computer Science Knowledge Sharing
 
 ## AWS interview prep material
 ### For coding exercise
-1. https://leetcode.com/problemset/top-interview-questions/
+1. https://leetcode.com/problemset/all/?page=1&listId=wpwgkgt
 ### For system design
 1. https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA/playlists
 2. https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
