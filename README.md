@@ -17,5 +17,8 @@ Computer Science Knowledge Sharing
 ## Popular leetcode question set
 1. https://github.com/SeanPrashad/leetcode-patterns
 
+## Leetcoe company wise question sets
+1. https://github.com/krishnadey30/LeetCode-Questions-CompanyWise
+
 ## Popular system design course
 1. https://www.educative.io/path/scalability-system-design
